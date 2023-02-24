@@ -1,4 +1,4 @@
-package com.ai724.currency.forex.dto;
+package com.ai724.currency.currencyconversion.dto;
 
 import lombok.Data;
 
